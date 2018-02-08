@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "massive": "^4.6.4"
+  },
+  "name": "node-2-afternoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rachelruff1/node-2-afternoon.git",
+  "license": "MIT"
+}
